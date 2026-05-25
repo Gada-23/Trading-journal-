@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix",
+  "description": "A premium offline-first fintech Trading Journal and Analytics dashboard with AI reviews and Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
